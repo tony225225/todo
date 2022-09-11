@@ -1,0 +1,13 @@
+.t h1{
+    text-align: center;
+}
+
+body{
+    background-color: bisque;
+}
+.sub{
+    border: solid 1px;
+    padding: 10px;
+    margin-right: 1000px;
+    align-self: center;
+}
